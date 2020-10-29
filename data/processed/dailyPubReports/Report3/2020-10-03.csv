@@ -1,0 +1,7 @@
+region,monitored_capacity_MW,planned_maintanence_MW,forced_MW,other_reasons_MW
+Northern,69663.53,3265.5,11360.84,4098.55
+Western,106314.49,2030.0,27003.72,6168.08
+Southern,62742.46,3466.8,21510.83,7576.83
+Eastern,40797.5,1077.0,5998.0,1421.7
+North Eastern,4265.45,96.0,496.5,222.43
+Total,283783.44,9935.3,66369.89,19487.59
