@@ -1,0 +1,25 @@
+region,particulars,program_today,actual_today
+Northern,THERMAL,612.1,649.03
+Northern,NUCLEAR,26.24,30.07
+Northern,HYDRO,163.17,210.05
+Northern,Total,801.51,889.15
+Western,THERMAL,1198.06,1328.62
+Western,NUCLEAR,40.95,23.57
+Western,HYDRO,48.4,47.72
+Western,Total,1287.41,1399.91
+Southern,THERMAL,549.77,347.58
+Southern,NUCLEAR,61.83,74.07
+Southern,HYDRO,87.48,112.91
+Southern,Total,699.08,534.56
+Eastern,THERMAL,475.12,522.9
+Eastern,HYDRO,64.5,91.47
+Eastern,Total,539.62,614.37
+North Eastern,THERMAL,36.42,34.34
+North Eastern,HYDRO,23.14,22.86
+North Eastern,Total,59.56,57.2
+All India,THERMAL,2871.47,2882.47
+All India,NUCLEAR,129.02,127.71
+All India,HYDRO,386.69,485.01
+All India,Bhutan IMP.,21.39,39.72
+All India,R.E.S,,
+All India,Total,3408.57,3534.91
